@@ -15,7 +15,7 @@ Hi there, I'm Semih ! 👋
 - 🏃‍♂️ Sports: Keeping active and staying disciplined is a key part of my life.
 - 🌍 Traveling: I love exploring new places and experiencing different cultures.
 
-- 📫 Reach Me:
+📫 Reach Me:
 - Linkedin:https://www.linkedin.com/in/semih-ismail-kaya-86a655344/
 - Email:ssemibh@gmail.com
 - GitHub:https://github.com/semih502
