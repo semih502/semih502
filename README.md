@@ -19,4 +19,5 @@ Hi there, I'm Semih ! 👋
 - Linkedin:https://www.linkedin.com/in/semih-ismail-kaya-86a655344/
 - Email:ssemibh@gmail.com
 - GitHub:https://github.com/semih502
+
 ⭐️ Thanks for stopping by!
