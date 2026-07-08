@@ -1,5 +1,5 @@
 Hi there, I'm Semih ! 👋
-🎓 University Student | 💻 Software Developer | 🎮 Game Dev Enthusias. I'm a 2nd-year Computer Engineering student at Karabük University. I love building solid code architectures, exploring creative game mechanics, and diving into software engineering.
+🎓 University Student | 💻 Software Developer | I'm a 2nd-year Computer Engineering student at Karabük University. I love building solid code architectures, exploring creative game mechanics, and diving into software engineering.
 🚀 What I'm Focused On:
 
 - Data Science: Exploring data analysis, visualization, and machine learning to solve real-world problems.
